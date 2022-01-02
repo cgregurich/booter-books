@@ -1,0 +1,2 @@
+FLASK_APP=booter_books.py
+FLASK_ENV=development

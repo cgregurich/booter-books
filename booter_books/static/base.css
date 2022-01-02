@@ -1,0 +1,15 @@
+nav a {
+    font-size: 30px;
+    color: grey;
+}
+
+nav a:visited {
+    color: none;
+}
+
+nav a:hover {
+    color: black;
+}
+
+body {
+}
