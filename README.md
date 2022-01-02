@@ -1,3 +1,4 @@
+1/2/22
 Simple goodreads clone to learn how to make a web app with:
 - user accounts/authentication
 - basic CRUD capabilities
